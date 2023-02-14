@@ -9,7 +9,7 @@
 </p>
 <br/><br/>
 
-## My Tech skills 🧑‍💻:
+## My Tech skills 👩💻:
 
 <ul>
     <li>HTML</li>
@@ -19,9 +19,9 @@
     <li>Chakra</li>
     <li>Nodejs</li>
     <li>Express</li>
+    <li>Socket.io</li>
     <li>Sequelize</li>
     <li>PostgreSQL</li>
-    
 </ul>
 
 <br/><br/>
