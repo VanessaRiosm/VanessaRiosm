@@ -44,52 +44,29 @@
 <br/>
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="redux logo"  />
-  <img width="12" />
-   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="30" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/chakraui/319795" height="30" alt="chakra logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/Socket.io/fff" height="30" alt="Socket logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/Auth0/EB5424" height="30" alt="Auth0 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=photoshop" height="30" alt="photoshop logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" width='35' alt="javascript logo"  />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" width='35' alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" width='35' alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="30" width='35' alt="redux logo"  />
+   <img src="https://skillicons.dev/icons?i=vite" height="30" width='35' alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="30" width='35' alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="30" width='35' alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" width='35' alt="npm logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" width='35' alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="30" width='35' alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" width='35' alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" width='35' alt="postgres logo"  />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="30" width='35' alt="sequelize logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="30" width='35' alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="30" width='35' alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=materialui" height="30" width='35' alt="materialui logo"  />
+  <img src="https://cdn.simpleicons.org/chakraui/319795" height="30" width='35' alt="chakra logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" width='35' alt="tailwind logo"  />
+  <img src="https://cdn.simpleicons.org/Socket.io/fff" height="30" width='35' alt="Socket logo"  />
+  <img src="https://cdn.simpleicons.org/Auth0/EB5424" height="30" width='35' alt="Auth0 logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" width='35' alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" width='35' alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=photoshop" height="30" width='35' alt="photoshop logo"  />
 
 </div>
 
