@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-<img src='https://github-profile-trophy.vercel.app/?username=vanessaRiosm&theme=radical&&row=1&column=3&margin-w=15' alt='tropy graph'>
+<img src='https://github-profile-trophy.vercel.app/?username=vanessaRiosm&theme=radical&&row=1&column=3&margin-w=15&title=Joined2020&title=Commits&title=Followers' alt='tropy graph'>
 </div>
 
 <br/>
