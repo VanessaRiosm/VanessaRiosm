@@ -1,4 +1,4 @@
-<p> <h1 align="center">Hi 👋! My name is Vanessa Rios and I'm a Full Stack Web Developer</h1> </p>
+<p> <h2 align="center">Hi 👋! My name is Vanessa Rios and I'm a Full Stack Web Developer</h2> </p>
 <br />
 
 <p align="center">
