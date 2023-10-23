@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Vanessa Rios and I'm a Full Stack Web Developer</h2>
+<p> <h1 align="center">Hi 👋! My name is Vanessa Rios and I'm a Full Stack Web Developer</h1> </p>
 <br />
 
 <p align="center">
@@ -40,7 +40,7 @@
 </div>
 
 <br/>
-<h2 align="center">🛠️ Technologies & Tools</h2>
+<p> <h1 align="center">🛠️ Technologies & Tools</h1> </p>
 <br/>
 
 <div align="center">
