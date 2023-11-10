@@ -12,7 +12,7 @@
 <br/>
 
 - 🔭 I’m currently working on a Next Js project
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular & .Net
 - ❤️ I Love to code
 - 💬 Ask me about anything
 - 📫 How to reach me: vanessa.riosm571@gmail.com
