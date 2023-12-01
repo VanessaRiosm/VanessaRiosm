@@ -67,6 +67,9 @@
   <img src="https://cdn.simpleicons.org/Socket.io/fff" height="30" width='35' alt="Socket logo"  />
   <img src="https://cdn.simpleicons.org/Auth0/EB5424" height="30" width='35' alt="Auth0 logo"  />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" width='35' alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" width='35' alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" width='35' alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" width='35' alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="30" width='35' alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=photoshop" height="30" width='35' alt="photoshop logo"  />
 
