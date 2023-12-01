@@ -47,6 +47,7 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" width='35' alt="javascript logo"  />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" width='35' alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=react" height="30" width='35' alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" width='35' alt="nextjs logo"  />
   <img src="https://skillicons.dev/icons?i=redux" height="30" width='35' alt="redux logo"  />
    <img src="https://skillicons.dev/icons?i=vite" height="30" width='35' alt="vite logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="30" width='35' alt="html5 logo"  />
@@ -57,6 +58,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" width='35' alt="mongodb logo"  />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" width='35' alt="postgres logo"  />
   <img src="https://skillicons.dev/icons?i=sequelize" height="30" width='35' alt="sequelize logo"  />
+  <img src="https://skillicons.dev/icons?i=prisma" height="30" width='35' alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="30" width='35' alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="30" width='35' alt="github logo"  />
   <img src="https://skillicons.dev/icons?i=materialui" height="30" width='35' alt="materialui logo"  />
