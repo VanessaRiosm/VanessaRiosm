@@ -7,6 +7,8 @@
     </a>
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VanessaRiosm&color=ff1f99" alt="Vanessa Rios" /> </p>
+
 <br/>
 
 - 🔭 I’m currently working on a Next Js project
